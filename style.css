@@ -1,0 +1,32 @@
+.theme{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+}
+
+.intro{
+    font-family: ui-serif;
+    font-size: 30px;
+    text-align:center
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    margin:30px;
+    padding:30px;
+}
+
+body{
+    background-image:url('final.jpg');
+    background-size: 100%;
+    align-items: center;
+}
+
+.pariots{ 
+    position:relative;
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+}
